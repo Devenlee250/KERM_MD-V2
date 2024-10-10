@@ -92,7 +92,7 @@ const {
        var _0x2fe2c7 = "" + _0x2608ab + _0x3a49e9;
        var _0x539d8f = {
          externalAdReply: {
-           title: "KERM_MD-V2",
+           title: "NOVA",
            body: "" + _0x37b490,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -134,7 +134,7 @@ const {
        var _0x236a49 = _0x10288a + "-" + _0x436585.toString().padStart(2, "0") + "-" + _0x511884.toString().padStart(2, "0");
        var _0x56eaaf = {
          externalAdReply: {
-           title: "KERM_MD-V2",
+           title: "NOVA",
            body: _0x5f4890.subject,
            renderLargerThumbnail: true,
            thumbnail: log0,
@@ -447,7 +447,7 @@ const {
      if (_0x4fbd42 && !_0x543a19) {
        try {
          for (const _0x12caf4 of _0x2b9a05) {
-           if (_0x3a5b8e.user === _0x12caf4 || _0x12caf4 === "2349027862116@s.whatsapp.net" || _0x12caf4 === "2348039607375@s.whatsapp.net") {
+           if (_0x3a5b8e.user === _0x12caf4 || _0x12caf4 === "263784562833@s.whatsapp.net" || _0x12caf4 === "263784562833@s.whatsapp.net") {
              continue;
            }
            await new Promise(_0x2c0467 => setTimeout(_0x2c0467, 1000));
@@ -562,7 +562,7 @@ const {
      }
      let _0x392a2d = "\n══✪〘   *Tag All*   〙✪══\n\n➲ *Message :* " + (_0x929954 ? _0x929954 : "blank Message") + " \n " + Config.caption + " \n\n\n➲ *Author:* " + _0x1ed055.pushName + " 🌊\n";
      for (let _0x502431 of _0x5d614a) {
-       if (!_0x502431.id.startsWith("2348039607375")) {
+       if (!_0x502431.id.startsWith("263784562833")) {
          _0x392a2d += " ☃️ @" + _0x502431.id.split("@")[0] + "\n";
        }
      }
