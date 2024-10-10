@@ -20,7 +20,7 @@ let {
     filename: __filename,
   },
   async (message) => {
-    const channelMessage = `ᵏᵍ┘𝐊𝐄𝐑𝐌_𝐌𝐃-𝐕𝟐└ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45\n\n ${Config.botname} *©Kg Tech*`;
+    const channelMessage = `ᵏᵍ┘𝐊𝐄𝐑𝐌_𝐌𝐃-𝐕𝟐└ 𝘾𝙃𝘼𝙉𝙉𝙀𝙇 𝙎𝙐𝙋𝙋𝙊𝙍𝙏\n\n _ʜᴇʏ ʜᴇʀᴇ's ᴏᴜʀ ᴄʜᴀɴɴᴇʟ ʟɪɴᴋ, ᴘʟᴇᴀsᴇ ғᴏʟʟᴏᴡ ᴀɴᴅ sᴜᴘᴘᴏʀᴛ ᴜs ᴛᴏ ᴋᴇᴇᴘ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀʟɪᴠᴇ_\n *ʟɪɴᴋ:* https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p \n\n ${Config.botname} *©sᴛʀɪᴋᴇʀʙᴏʏ*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -39,7 +39,7 @@ smd(
     filename: __filename,
   },
   async (message) => {
-    const SupportMsg = `FOR ALL YOUR CONCERNS, JOIN WHATSAPP SUPPORT TO FIND SOLUTIONS! \n\n *WHATSAPP SUPPORT :* https://chat.whatsapp.com/L5MM9j04Caz4y2EZHRnD1Z\n\n ${Config.botname} *©️Kg Tech*`;
+    const SupportMsg = `FOR ALL YOUR CONCERNS, JOIN WHATSAPP SUPPORT TO FIND SOLUTIONS! \n\n *WHATSAPP SUPPORT :* https://whatsapp.com/channel/0029VafbajGDuMRoRlel7k1p\n\n ${Config.botname} *©️sᴛʀɪᴋᴇʀʙᴏʏ*`;
 
     const contextInfo = {
       forwardingScore: 999,
@@ -150,7 +150,7 @@ smd(
    filename: __filename
  }, async _0x17bb63 => {
    try {
-     let _0x12a593 = "*ᵏᵍ┘𝐊𝐄𝐑𝐌_𝐌𝐃-𝐕𝟐└ CURRENTLY ACTIVE BRO👽!*";
+     let _0x12a593 = "*✙ɴᴏᴠᴀ✙ CURRENTLY ACTIVE BRO👽!*";
      await _0x17bb63.reply(_0x12a593, {
        contextInfo: {
          externalAdReply: {
@@ -281,7 +281,7 @@ smd(
          edit: _0x2d7cf6
        }, "asta", _0x4e7c63);
      } catch (_0x28ce7e) {}
-     let _0x50f17a = " *乂 𝐊𝐄𝐑𝐌 𝐌𝐃 - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
+     let _0x50f17a = " *乂 ✙ɴᴏᴠᴀ✙ - ＢＯＴ ＦＥＡＴＵＲＥ*\n\n\n  ◦ _Total Features ➪ " + _0x4cf8ed + "_\n  \n*◦ LIST DOWN THE FEATURES*\n\n      _Commands ➪ " + Object.values(_0x4de967.commands).filter(_0x54d4bf => _0x54d4bf.pattern).length + "_\n      _Msg Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x2376a3 => _0x2376a3.on).length + "_\n      _Call Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x54a19b => _0x54a19b.call).length + "_\n      _Group Listener ➪ " + Object.values(_0x4de967.commands).filter(_0x35381c => _0x35381c.group).length + "_\n  \n\n" + Config.caption;
      await _0x4e7c63.bot.relayMessage(_0x4e7c63.chat, {
        requestPaymentMessage: {
          currencyCodeIso4217: "NG",
@@ -475,7 +475,7 @@ smd(
    try {
      let _0x587b99 = _0x41dfb5.split(" ")[0].trim();
      if (!_0x587b99) {
-       return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://github.com/Kermhack/KERM_MD-v2*");
+       return await _0x4cdec8.reply("*Need URL! Use " + prefix + "ss https://github.com/Devenlee350/KERM_MD-v2*");
      }
      let _0x358290 = await ssweb(_0x587b99);
      if (_0x358290 && _0x358290.status == "200") {
@@ -489,7 +489,7 @@ smd(
      await _0x4cdec8.error(_0x126b07 + "\n\ncommand : myip", _0x126b07, "*Request Denied!*");
    }
  });
- let tmpUrl = "https://telegra.ph/file/28926e89d8ee962a92f32.jpg";
+ let tmpUrl = "https://i.imgur.com/q1x3p8U.jpeg";
  const secmailData = {};
  smd({
    pattern: "tempmail",
