@@ -458,7 +458,7 @@ smd(
         case "economy":
           {
             if (_0x599658.economy == "true") {
-              return await _0x1c1427.reply("*_Economy was alredy enabled.!_*");
+              return await _0x1c1427.reply("*_Economy was already enabled.!_*");
             }
             await groupdb.updateOne(
               {
@@ -586,7 +586,7 @@ smd(
         case "economy":
           {
             if (_0x39a7fb.economy == "false") {
-              return _0x3dfe85.reply("*_Economy was alredy disabled!_*");
+              return _0x3dfe85.reply("*_Economy was already disabled!_*");
             }
             await groupdb.updateOne(
               {
