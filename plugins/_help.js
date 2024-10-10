@@ -31,11 +31,11 @@ smd(
 ➮ʀᴜɴᴛɪᴍᴇ - ${runtime(process.uptime())} 
 ➮ᴅᴀᴛᴇ - ${message.date} 
 ➮ɴᴏᴡ ᴛɪᴍᴇ - ${message.time} 
-➮Fᴏᴜɴᴅᴇʀ- *Kg Tech*
+➮Fᴏᴜɴᴅᴇʀ- *sᴛʀɪᴋᴇʀʙᴏʏ*
 ➮Oᴡɴᴇʀ - ${Config.ownername} 
 ➮Nᴜᴍ - ${owner.split(",")[0]} 
 ➮Mᴇᴍᴏ - ${formatp(os.totalmem() - os.freemem())} 
-      \n *KERM_MD-V2 SIMPLE WHATSAPP BOT*\n\n ${readmore} 
+      \n *✙ɴᴏᴠᴀ✙ SIMPLE WHATSAPP BOT*\n\n ${readmore} 
 ╭──❰༆𝐀𝐥𝐥 𝐌𝐞𝐧𝐮༆❱ 
 │🤖 Lɪꜱᴛ 
 │🤖 Cᴀᴛᴇɢᴏʀʏ 
