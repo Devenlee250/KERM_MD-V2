@@ -1,7 +1,7 @@
 {
     "name": "Kerm_Md-V2",
     "description": "Simple WhatsApp Bot🤖",
-    "logo": "https://telegra.ph/file/dc5657036b53a3613d4f7.jpg",
+    "logo": "https://i.imgur.com/3Fq3Ucq.jpeg",
     "keywords": ["Kg Tech", "Kerm Md", "Kerm_Md-V2"],
     "success_url": "/",
     "stack": "container",
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Kg Tech",
+        "value": "sᴛʀɪᴋᴇʀʙᴏʏ",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg",
+        "value": "https://i.imgur.com/q1x3p8U.jpeg",
         "required": false
       },
   
@@ -35,17 +35,17 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg"
+        "value": "https://i.imgur.com/q1x3p8U.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*"
+        "value": "*✙ɴᴏᴠᴀ✙*"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Douala"
+        "value": "Africa/Harare"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -60,7 +60,7 @@
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
         "required": false,
-        "value": "false"
+        "value": "true"
       },
       "HEROKU_API_KEY": {
         "description": "Put Your Heroku Api Key Here",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "237656520674"
+        "value": "263784562833"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -115,12 +115,12 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "*ᵏᵍ┘𝙺𝙴𝚁𝙼_𝙼𝙳_𝚅𝟸𖤐*",
+        "value": "*✙ɴᴏᴠᴀ✙*",
         "required": false
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "KgTech",
+        "value": "sᴛʀɪᴋᴇʀʙᴏʏ",
         "required": false
       }  
   },
