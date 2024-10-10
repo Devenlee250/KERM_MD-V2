@@ -72,7 +72,7 @@ async function sendAnime(_0x55a475, _0x509539, _0x4e419e, _0x835b9a = "") {
         quoted: _0x509539
       });
     } else if (_0x4e419e === _0x2d1f22(325) || _0x4e419e === _0x2d1f22(328)) {
-      let _0x3a01f7 = "https://raw.githubusercontent.com/SuhailTechInfo/Suhail-Md-Media/main/" + (_0x4e419e === "demon" ? "Demonslayer" : _0x2d1f22(343)) + _0x2d1f22(362);
+      let _0x3a01f7 = "https://raw.githubusercontent.com/Devenlee350/Suhail-Md-Media/main/" + (_0x4e419e === "demon" ? "Demonslayer" : _0x2d1f22(343)) + _0x2d1f22(362);
       const _0x37dffc = await fetchJson(_0x3a01f7);
       const _0x51dced = _0x37dffc.result[Math[_0x2d1f22(364)](Math.random() * _0x37dffc[_0x2d1f22(365)][_0x2d1f22(373)])].url;
       await _0x55a475[_0x2d1f22(333)][_0x2d1f22(352)](_0x509539[_0x2d1f22(358)], {
